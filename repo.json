@@ -1,19 +1,19 @@
 {
 	"META": {
-		"repoName": "Scarlet Repo test",
-		"repoIcon": "https://flekstore.com/favicon.ico"
+		"repoName": "Gay Repo",
+		"repoIcon": "https://openseauserdata.com/files/3ffa7249ab8bdc6d4935ba03930aeca1.png"
 	},
 	"Tweaked": [{
-		"name": "AltStore Beta",
-		"version": "1.6rc",
-		"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc.ipa",
+		"name": "PH",
+		"version": "17.49.6",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.1/uYouPlus_17.49.6_2.1.ipa",
 		"category": "Tweaked Apps",
-		"description": "An alternative App Store for iOS",
-		"bundleID": "com.rileytestut.AltStore.Beta",
-		"appstore": "com.rileytestut.AltStore.Beta",
+		"description": "True ad-less YouTube...",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
 		"contact": {
-			"web": "https://altstore.io",
-			"twitter": "https://twitter.com/rileytestut"
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
 		"name": "iPogo",
