@@ -4,16 +4,16 @@
 		"repoIcon": "https://flekstore.com/favicon.ico"
 	},
 	"Tweaked": [{
-		"name": "uYou",
-		"version": "17.49.6",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.1/uYouPlus_17.49.6_2.1.ipa",
+		"name": "AltStore Beta",
+		"version": "1.6rc",
+		"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_rc.ipa",
 		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
+		"description": "An alternative App Store for iOS",
+		"bundleID": "com.rileytestut.AltStore.Beta",
+		"appstore": "com.rileytestut.AltStore.Beta",
 		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			"web": "https://altstore.io",
+			"twitter": "https://twitter.com/rileytestut"
 		}
 	}, {
 		"name": "iPogo",
