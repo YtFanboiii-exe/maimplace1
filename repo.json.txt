@@ -1,0 +1,19 @@
+{
+    "META":{
+	"repoName": "Gay Repository",
+	"repoIcon": "https://1000logos.net/wp-content/uploads/2017/12/Pornhub-symbol.jpg"
+   },
+   "Tweaked": {
+	{
+	    "name": "Sister Location",
+	    "version": "2.0",
+	    "icon": "https://raw.githubusercontent.com/ub96/maimplace1/main/download.jpg",
+	    "down": "https://archive.org/download/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
+	    "dev": "Scott Cawthon",
+	    "banner": "https://raw.githubusercontent.com/ub96/maimplace1/main/download%20(1).jpg",
+	    "category": "Tweaked Apps",
+	    "description": "FNAF SL for free!",
+	    "bundleID": "com.scottgames.sisterlocation",
+	    }]
+}
+	
