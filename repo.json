@@ -1,19 +1,17 @@
-{
-	"META": {
-		"repoName": "Gay Repo",
+
 		"repoIcon": "https://openseauserdata.com/files/3ffa7249ab8bdc6d4935ba03930aeca1.png"
 	},
 	"Tweaked": [{
 		"name": "Sister Location",
 		"version": "2.0",
-		"down": "https://ia802207.us.archive.org/28/items/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
+		"down": "https://ia802207.us.archive.org/28/items/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa"
 		"category": "Tweaked Apps",
-		"description": "Free copy of Sister Location",
-		"bundleID": "com.scottgames.sisterlocation",
-		"appstore": "com.scottgames.sisterlocationa",
-		"contact": 
-			"web": "https://archive.org/",
-			"twitter": "https://twitter.com"
+		"description": "True ad-less YouTube...",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
+		"contact": {
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
 		"name": "iPogo",
